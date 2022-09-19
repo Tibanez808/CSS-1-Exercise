@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+    border: 3px solid black;
+    border-radius: 90px;
+    max-width:480px;
+    width: 480px;
+    padding:10px;
+    padding-right: 40px;
+    white-space: nowrap;
+}
+
+.flex:hover{
+    box-shadow: 5px 10px red;
+}
+
+.right {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 1.1rem;
+    width: 100000px;
+}
+
+.pikachu {
+    width:100%
+}
+
+
+    
